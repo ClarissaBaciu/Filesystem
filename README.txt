@@ -1,6 +1,6 @@
 ECSE427 & COMP 310 : File System on Simulated Disk
 
-
+All relevant code is included in sfs.c, function declarations are in the header file sfs.h.
 
 Tests: 
 
