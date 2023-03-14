@@ -1,6 +1,9 @@
 ECSE427 & COMP 310 : File System on Simulated Disk
 
-All relevant code is included in sfs.c, function declarations are in the header file sfs.h.
+Creation of a 1 level file system containing functions to : get next file name, get file size, open a file, close a file, write to a file, read from a file, move the pointer to the beginning of the file, and remove a file. Implemented using directory tables, free bit maps, file allocation tables, inode tables and memory blocks.  
+
+
+All relevant code is included in sfs.c, function declarations are in the header file sfs_api.h.
 
 Tests: 
 
