@@ -1,4 +1,4 @@
-# ECSE427 & COMP 310 : File System on Simulated Disk
+ECSE427 & COMP 310 : File System on Simulated Disk
 
 
 
