@@ -1,3 +1,9 @@
+# ECSE427 & COMP 310 : File System on Simulated Disk
+
+
+
+Tests: 
+
 - Must add '-lm' flag for floor function. 
 
 - Attempted to modify makefile appropriately but it was not working so I simply added a
@@ -7,7 +13,6 @@
 
 - Note : Test 2 has an undeclared variable MAXFILENAME which I replaced with
  MAX_FNAME_LENGTH, since it was declared in the test file and i believe it performs the same function. 
-
 
 - Test outputs can be found below if there are issues running the code 
 
